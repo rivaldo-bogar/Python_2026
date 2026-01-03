@@ -1,0 +1,3 @@
+# agar tidak ditambahkan ke github ketika di push,saya tambahkan .gitignore
+
+venv/
