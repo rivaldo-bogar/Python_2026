@@ -1,0 +1,3 @@
+Nama : Rivaldo
+umur : 23
+prody: informatika
